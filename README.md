@@ -232,17 +232,17 @@ The snapshot provides a recovery point for future cybersecurity practical exerci
 
 ## 📸 Project Screenshots
 
-Screenshots documenting the lab setup and configuration are maintained separately in the repository.
+Screenshots documenting the lab setup and configuration are maintained separately in the repository as evidence.
 
-The `screenshots/` directory contains visual evidence of the completed implementation.
 
 ### Evidence Included
 
 - VirtualBox NAT Network configuration
 - Kali Linux network adapter settings
+- Kali Linux setup proof
 - Static IP address configuration
 - Internet connectivity verification
-- Shared folder configuration
+- Features configuration
 - Virtual machine snapshot
 
 These screenshots provide supporting evidence of the lab configuration and completed task.
